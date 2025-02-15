@@ -166,6 +166,10 @@
       "fontCharacter": "\\f182",
       "fontColor": "#79b8ff"
     },
+    "_people": {
+      "fontCharacter": "\\f19c",
+      "fontColor": "#959da5"
+    },
     "_perl": {
       "fontCharacter": "\\f19d",
       "fontColor": "#79b8ff"
@@ -245,6 +249,10 @@
     "_vim": {
       "fontCharacter": "\\f1ec",
       "fontColor": "#85e89d"
+    },
+    "_vscode": {
+      "fontCharacter": "\\f21f",
+      "fontColor": "#79b8ff"
     },
     "_vue": {
       "fontCharacter": "\\f1f4",
@@ -332,15 +340,10 @@
     ".node-version": "_node",
     "tsconfig.json": "_typescript",
     ".terraform-version": "_terraform",
-    ".eslintignore": "_eslint",
-    ".eslintrc": "_eslint",
-    ".eslintrc.js": "_eslint",
-    ".eslintrc.json": "_eslint",
-    ".eslintrc.yml": "_eslint",
-    ".eslintrc.yaml": "_eslint",
     "eslint.config.js": "_eslint",
     "eslint.config.mjs": "_eslint",
     "eslint.config.cjs": "_eslint",
+    "eslint.config.ts": "_eslint",
     ".prettierrc": "_prettier",
     ".prettierrc.js": "_prettier",
     ".prettierrc.json": "_prettier",
@@ -369,6 +372,10 @@
     "loading.jsx": "_loading",
     "loading.tsx": "_loading",
     "turbo.json": "_turbo",
-    "biome.json": "_biome"
+    "biome.json": "_biome",
+    "biome.jsonc": "_biome",
+    "CODEOWNERS": "_people",
+    ".vscode/extensions.json": "_vscode",
+    ".vscode/settings.json": "_vscode"
   }
 }

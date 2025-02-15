@@ -2,7 +2,7 @@
   "name": "vscode-nonicons",
   "displayName": "Nonicons",
   "description": "",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "publisher": "yamatsum",
   "engines": {
     "vscode": "^1.78.2"
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yamatsum/vscode-nonicons"
+    "url": "https://github.com/ya2s/vscode-nonicons"
   },
   "scripts": {
     "build": "vsce package -o build/",
@@ -32,5 +32,5 @@
     "vscode-test": "^1.5.0"
   },
   "dependencies": {},
-  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72"
+  "packageManager": "pnpm@9.15.4+sha512.b2dc20e2fc72b3e18848459b37359a32064663e5627a51e4c74b2c29dd8e8e0491483c3abb40789cfd578bf362fb6ba8261b05f0387d76792ed6e23ea3b1b6a0"
 }
