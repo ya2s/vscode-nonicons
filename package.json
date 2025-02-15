@@ -1,8 +1,8 @@
 {
   "name": "vscode-nonicons",
   "displayName": "Nonicons",
-  "description": "",
-  "version": "0.0.23",
+  "description": "An icon set inspired by Github's Octicons.",
+  "version": "0.0.25",
   "publisher": "yamatsum",
   "engines": {
     "vscode": "^1.78.2"
