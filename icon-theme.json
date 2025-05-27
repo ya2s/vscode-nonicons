@@ -62,6 +62,14 @@
       "fontCharacter": "\\f229",
       "fontColor": "#79b8ff"
     },
+    "_code_of_conduct": {
+      "fontCharacter": "\\f230",
+      "fontColor": "#959da5"
+    },
+    "_copilot": {
+      "fontCharacter": "\\f254",
+      "fontColor": "#959da5"
+    },
     "_css": {
       "fontCharacter": "\\f12f",
       "fontColor": "#8a63d2"
@@ -73,6 +81,10 @@
     "_database": {
       "fontCharacter": "\\f132",
       "fontColor": "#f692ce"
+    },
+    "_dependabot": {
+      "fontCharacter": "\\f20d",
+      "fontColor": "#959da5"
     },
     "_docker": {
       "fontCharacter": "\\f13e",
@@ -101,6 +113,10 @@
     "_graphql": {
       "fontCharacter": "\\f22a",
       "fontColor": "#f692ce"
+    },
+    "_heart": {
+      "fontCharacter": "\\f161",
+      "fontColor": "#959da5"
     },
     "_html": {
       "fontCharacter": "\\f167",
@@ -254,6 +270,10 @@
       "fontCharacter": "\\f21f",
       "fontColor": "#79b8ff"
     },
+    "_workflow": {
+      "fontCharacter": "\\f1f5",
+      "fontColor": "#959da5"
+    },
     "_vue": {
       "fontCharacter": "\\f1f4",
       "fontColor": "#85e89d"
@@ -320,7 +340,9 @@
     "xml": "_file_code",
     "yaml": "_yaml",
     "yml": "_yaml",
-    "zsh": "_terminal"
+    "zsh": "_terminal",
+    ".vscode/json": "_vscode",
+    "workflows/yml": "_workflow"
   },
   "fileNames": {
     "dockerfile": "_docker",
@@ -375,7 +397,9 @@
     "biome.json": "_biome",
     "biome.jsonc": "_biome",
     "CODEOWNERS": "_people",
-    ".vscode/extensions.json": "_vscode",
-    ".vscode/settings.json": "_vscode"
+    "dependabot.yml": "_dependabot",
+    "CODE_OF_CONDUCT.md": "_code_of_conduct",
+    "copilot-instructions.md": "_copilot",
+    "FUNDING.yml": "_heart"
   }
 }
