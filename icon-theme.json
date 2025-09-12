@@ -372,6 +372,8 @@
     ".prettierrc.yml": "_prettier",
     ".prettierrc.yaml": "_prettier",
     ".prettierignore": "_prettier",
+    "prettier.config.js": "_prettier",
+    "prettier.config.ts": "_prettier",
     ".babelrc": "_babel",
     ".babelrc.js": "_babel",
     ".babelrc.json": "_babel",
@@ -400,6 +402,8 @@
     "dependabot.yml": "_dependabot",
     "CODE_OF_CONDUCT.md": "_code_of_conduct",
     "copilot-instructions.md": "_copilot",
-    "FUNDING.yml": "_heart"
+    "FUNDING.yml": "_heart",
+    "graphql.config.js": "_graphql",
+    "graphql.config.ts": "_graphql"
   }
 }
