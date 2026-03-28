@@ -182,6 +182,10 @@
       "fontCharacter": "\\f182",
       "fontColor": "#79b8ff"
     },
+    "_oxc": {
+      "fontCharacter": "\\f2ba",
+      "fontColor": "#79b8ff"
+    },
     "_people": {
       "fontCharacter": "\\f19c",
       "fontColor": "#959da5"
@@ -404,6 +408,10 @@
     "copilot-instructions.md": "_copilot",
     "FUNDING.yml": "_heart",
     "graphql.config.js": "_graphql",
-    "graphql.config.ts": "_graphql"
+    "graphql.config.ts": "_graphql",
+    ".oxlintrc.json": "_oxc",
+    "oxlint.config.ts": "_oxc",
+    ".oxfmtrc.json": "_oxc",
+    "oxfmt.config.ts": "_oxc"
   }
 }
